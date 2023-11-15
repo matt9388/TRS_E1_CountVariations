@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LfVG6UZxkKLzMpkuRjyxDehuPxPYs76UE9M8hr2BUd7cReUp8ggGrm8f74HyQBMsOg9dhoU7XBOSlIldY41DzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\199030\\source\\repos\\TRS_E1_CountVariations\\TRS_E1_CountVariations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\199030\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

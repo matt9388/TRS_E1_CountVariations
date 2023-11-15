@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRS_E1_CountVariations", "TRS_E1_CountVariations.csproj", "{EAD27F81-5BD6-420A-8ED5-17C2F37FBFDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD27F81-5BD6-420A-8ED5-17C2F37FBFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD27F81-5BD6-420A-8ED5-17C2F37FBFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD27F81-5BD6-420A-8ED5-17C2F37FBFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD27F81-5BD6-420A-8ED5-17C2F37FBFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF4E4FA9-8ED9-4B78-8722-187F0D1C9949}
+	EndGlobalSection
+EndGlobal
